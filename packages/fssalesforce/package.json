@@ -16,7 +16,7 @@
     "@brandingbrand/fsfoundation": "^8.1.0",
     "@brandingbrand/fsnetwork": "^8.1.0",
     "decimal.js": "^10.0.1",
-    "dtsgenerator": "^2.0.7",
+    "dtsgenerator": "^2.4.1",
     "jwt-decode": "^2.2.0",
     "qs": "^6.7.0"
   },

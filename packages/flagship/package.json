@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@brandingbrand/fsengage": "^8.3.0",
-    "@types/yargs": "^15.0.0",
+    "@types/yargs": "^15.0.4",
     "true-case-path": "^1.0.3"
   },
   "publishConfig": {

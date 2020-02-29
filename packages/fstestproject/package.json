@@ -40,7 +40,7 @@
     "@brandingbrand/fssalesforce": "^8.3.0",
     "@brandingbrand/fsturnto": "^8.3.0",
     "@brandingbrand/fsups": "^8.3.0",
-    "@react-native-community/async-storage": "^1.6.1",
+    "@react-native-community/async-storage": "^1.8.1",
     "jsc-android": "241213.x.x",
     "react": "16.8.3",
     "react-native": "0.59.10",
